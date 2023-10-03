@@ -1,0 +1,19 @@
+{
+  "name": "apileticia",
+  "version": "1.0.0",
+  "description": "api resr para el manejo de reserva hoteleras",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "author": "Simon munoz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
